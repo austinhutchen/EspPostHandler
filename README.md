@@ -6,4 +6,5 @@ An ESP32 php GET and POST handler script.
 <code>chmod +x +h start.sh </code> <br/>
 <code> sudo bash start.sh </code> <br/>
 
-Navigate to the IP printed in your serial monitor or terminal and send images or text as needed
+<b> Navigate to the IP printed in your serial monitor or terminal and send images or text as needed
+</b>
