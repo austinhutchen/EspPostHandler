@@ -5,4 +5,5 @@ An ESP32 php GET and POST handler script.
 <code>pwd</code> should display <code> /Users/{YOUR USERNAME}/{DIRECTORY}/espPostHandler</code> <br/>
 <code>chmod +x +h start.sh </code> <br/>
 <code> sudo bash start.sh </code> <br/>
-navigate to the IP printed in your serial monitor or terminal and send images or text as needed
+
+Navigate to the IP printed in your serial monitor or terminal and send images or text as needed
