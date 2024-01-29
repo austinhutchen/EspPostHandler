@@ -13,7 +13,7 @@ ENTER YOUR CREDENTIALS AND POST BELOW:
 <form action="handlePost.php" method="post" enctype="multipart/form-data" >
 E-mail: <input type="text" name="email"><br>
 JSON PATH: <input type="file" name="file1"><br>
-<input type="submit">
+POST:<input type="submit" >
 
 
 
@@ -22,17 +22,13 @@ JSON PATH: <input type="file" name="file1"><br>
 
 <?php
 $DIR= getcwd();
-if(is_dir($DIR)){
-	$DirEntires = scandir($DIR,1);
-		foreach($DirEntries as $Entry){
 
-echo $Entry."<br/>\n";
-		}
+echo $DIR."<br/>\n";
 
 
 
 
-}
+
 ?>
 
 
