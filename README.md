@@ -1,5 +1,5 @@
 # EspPostHandler
-An ESP32 php GET and POST handler script. 
+An ESP32/8266 php GET and POST handler script. 
 
 <h1>TO RUN </h1>
 <code>pwd</code> should display <code> /Users/{YOUR USERNAME}/{DIRECTORY}/espPostHandler</code> <br/>
